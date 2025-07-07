@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\Feature\\OrderTest::test_user_can_checkout_and_order_is_created":0.093,"Tests\\Feature\\CartTest::test_user_can_add_product_to_cart":0.101,"Tests\\Feature\\CartTest::test_user_can_update_cart_quantity":0.016,"Tests\\Feature\\CartTest::test_user_can_delete_cart_item":0.014}}
